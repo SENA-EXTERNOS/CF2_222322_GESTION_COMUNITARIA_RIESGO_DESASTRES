@@ -1,4 +1,4 @@
-# **sena-base-2021 v6.2.1**
+# **Diagnóstico para la gestión del riesgo de desastres**
 
 ## **Enlace GitHubPages**
 
