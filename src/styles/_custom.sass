@@ -1,13 +1,18 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: zoom-in-zoom-out 5.8s linear infinite
     position: absolute
-    top: 40%
-    right: 50%
+    top: 30%
+    right: 66% 
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 51%
+    right: 80%
+  &-3
+    animation: girar 5s linear infinite
+    position: absolute
+    top: 41%
     right: 30%
 
 
@@ -17,6 +22,22 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes girar 
+  0%
+    transform: rotate(0deg)  translate(-100px) rotate(0deg)
+  100%
+    transform: rotate(360deg) translate(-100px) rotate(-360deg); 
+
+@keyframes zoom-in-zoom-out
+  0% 
+    transform: scale(1, 1);
+  
+  50% 
+    transform: scale(1.5, 1.5);
+  
+  100% 
+    transform: scale(1, 1);
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white
@@ -29,7 +50,7 @@
 
 .fondo-1
   background-image: url('../assets/curso/temas/tema_1/img_2.svg');
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   p 
     color: white
@@ -60,6 +81,34 @@
   background-color: #DEE4F0
   border-radius: 15px
 
+.bg_7
+  background-color: #F1F9F8
+  .slyder-a__bullets__item--active 
+    background-color: #179587 !important
+  .slyder-a__bullets__item
+    background-color: #AAD6D1
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: #EFCD7F
+
+.bg_8
+  background-color: #5E6487
+  p
+    color: white
+
+.bg_9
+  background-color: #39416B
+  .slyder-f__btn i
+    color: #F1B62B
+.bg_9_txt
+  color: white
+
+.bg_10
+  background-color: #F8B3BA
+
+.bg_11
+  background-color: #179587
+  
+
 
 .slyder-a__bullets__item--active 
   background-color: #F1B62B
@@ -89,6 +138,29 @@
   background-repeat: no-repeat;
   margin-inline: -3.2rem 
 
+.fondo-4
+  background-image: url('../assets/curso/temas/tema_2/img_2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-inline: -3.2rem 
+
+.fondo-5
+  background-image: url('../assets/curso/temas/tema_2/img_7.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  p 
+    color: white
+    font-size: 14px
+
+.fondo-6
+  background-image: url('../assets/curso/temas/tema_2/img_28.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-inline: -3.2rem 
+  
+
+
+
 .bloque-texto-b i
   color: #F1B62B
 
@@ -110,4 +182,14 @@
   position: relative;
   width: 100%;
   margin-right: 238px;
+
+
+.cajon.color-primario 
+    background-color:  #C6E5E1
+
+.titulo-sexto.color-acento-contenido
+  border-left-color: #FF6B00
+
+
+
 

@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/CF2_222322_GESTION_COMUNITARIA_RIESGO_DESASTRES/](https://sena-externos.github.io/CF2_222322_GESTION_COMUNITARIA_RIESGO_DESASTRES/)
 
 #
 

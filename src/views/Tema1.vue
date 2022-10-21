@@ -559,7 +559,7 @@
           .bloque-texto-g__texto.p-4.txt-g.bloque-g-txt
             p.mb-0 Una vez reconocidos los sistemas de información geográfica, se puede concluir que la aplicación cartográfica en la gestión del riesgo implica conocer cada uno de los factores que le dan origen, estos factores tienen cada uno una representación espacial y pueden ser catalogados como fenómenos geográficos, dado que son rasgos identificables sobre el territorio y los diferentes sucesos con una temporalidad pronunciada, a su vez, cuentan con las siguientes características: 
 
-    .bg_6.py-5.mb-5
+    .bg_6.py-5.mb-5.h-100
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4").align-items-stretch.d-flex.h-100
         .tarjeta.bg_2.p-4
           .row.justify-content-center.mb-3
