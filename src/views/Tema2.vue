@@ -231,7 +231,7 @@
       .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-down-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema_2/img_32.svg' alt='AvatarTop')
-          .tarjeta.color-primario
+          .tarjeta.mog
             .p-4
               h4.text-center Proceso 1. Conocimiento del riesgo
               ul
@@ -247,7 +247,7 @@
       .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-down")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema_2/img_33.svg' alt='AvatarTop')
-          .tarjeta.color-primario
+          .tarjeta.mog
             .p-4
               h4.text-center Proceso 2. Reducción del riesgo
               ul
@@ -260,7 +260,7 @@
       .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-down-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema_2/img_34.svg' alt='AvatarTop')
-          .tarjeta.color-primario
+          .tarjeta.mog
             .p-4
               h4.text-center Proceso 3. Manejo de desastres
               ul

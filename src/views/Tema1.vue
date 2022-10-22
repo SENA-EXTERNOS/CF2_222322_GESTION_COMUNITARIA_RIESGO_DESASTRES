@@ -254,7 +254,7 @@
           li 
             span.lista-ul__vineta Descentralización.
       .tarjeta.color-acento-botones.p-3(x="69%" y="14%" numero="2")
-        p Principios del Proceso de Planificación del Desarrollo: 
+        p Identificar potencial impacto de las amenazas. 
       .tarjeta.color-acento-botones.p-3(x="79%" y="42%" numero="3")
         p Entender las causas y efectos relacionados con los factores de vulnerabilidad.
       .tarjeta.color-acento-botones.p-3(x="69%" y="85%" numero="4")
@@ -561,41 +561,41 @@
 
     .bg_6.py-5.mb-5.h-100
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4").align-items-stretch.d-flex.h-100
-        .tarjeta.bg_2.p-4
+        .tarjeta.bg_2.p-4.h-100
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_45.svg' alt='AvatarTop')
           h4.text-center Causalidad: 
           p.text-center permiten identificar las cuales que les dieron origen a estos factores. 
 
-        .tarjeta.bg_2.p-4
+        .tarjeta.bg_2.p-4.h-100
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_46.svg' alt='AvatarTop')
           h4.text-center Localización: 
           p.text-center el sistema de coordenadas permite ubicarlos espacialmente sobre la superficie terrestre. 
 
-        .tarjeta.bg_2.p-4
+        .tarjeta.bg_2.p-4.h-100
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_47.svg' alt='AvatarTop')
           h4.text-center Extensión: 
           p.text-center permite definir el espacio que ocupa sobre la superficie de la tierra. 
-        .tarjeta.bg_2.p-4
+        .tarjeta.bg_2.p-4.h-100
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_48.svg' alt='AvatarTop')
           h4.text-center Relación: 
           p.text-center se logran identificar aquellos fenómenos que estén relacionados entre sí. 
 
-        .tarjeta.bg_2.p-4
+        .tarjeta.bg_2.p-4.h-100
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_49.svg' alt='AvatarTop')
           h4.text-center Temporalidad:  
           p.text-center hace referencia al espacio de tiempo en que se presentan estos factores. 
 
-        .tarjeta.bg_2.p-4
+        .tarjeta.bg_2.p-4.h-100
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_50.svg' alt='AvatarTop')
