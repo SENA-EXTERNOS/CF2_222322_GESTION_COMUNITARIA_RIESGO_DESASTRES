@@ -593,7 +593,7 @@
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_49.svg' alt='AvatarTop')
           h4.text-center Temporalidad:  
-          p.text-center hace referencia al espacio de tiempo en que se presentan estos factores. 
+          p.text-center hace referencia al espacio de tiempo en que se presentan estos factores.
 
         .tarjeta.bg_2.p-4.h-100
           .row.justify-content-center.mb-3
