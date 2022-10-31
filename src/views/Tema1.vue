@@ -11,12 +11,12 @@
       .col-lg-3.mb-5.mb-md-0(data-aos="fade-up-right")
         img.img-a(src='@/assets/curso/temas/tema_1/img_1.png', alt='Texto que describa la imagen')
       .col-lg-9(data-aos="fade-up-left")
-        .fondo-1.p-4.mb-4
+        .fondo-1.p-4
           .row.justify-content-center
-            .col-lg-10
-              p.mt-3 Para dar inicio al componente formativo se presenta una descripción inicial de los elementos a considerar para la realización del diagnóstico de la gestión del riesgo de desastres.
+            .col-lg-9
+              p Para dar inicio al componente formativo se presenta una descripción inicial de los elementos a considerar para la realización del diagnóstico de la gestión del riesgo de desastres.
 
-        p Como primera parte en todo plan de riesgo, es necesario realizar un diagnóstico de la zona de estudio, el cual debe tener en cuenta las fuentes de información gubernamentales, las fuentes cartográficas y demográficas, así como los diversos actores sociales que están involucrados en el proceso. Esto con el propósito de facilitar el desarrollo de más medidas de mitigación y prevención que se apropien para que el programa sea implementado de forma sostenible y segura. 
+        p.mt-3 Como primera parte en todo plan de riesgo, es necesario realizar un diagnóstico de la zona de estudio, el cual debe tener en cuenta las fuentes de información gubernamentales, las fuentes cartográficas y demográficas, así como los diversos actores sociales que están involucrados en el proceso. Esto con el propósito de facilitar el desarrollo de más medidas de mitigación y prevención que se apropien para que el programa sea implementado de forma sostenible y segura. 
 
 
     SlyderB.mb-5(:datos="datosSlyder")
@@ -104,23 +104,23 @@
               h4.text-center Sismicidad
               ul
                 li 
-                  i.lista-ul__vineta Vibración del suelo.
+                  span.lista-ul__vineta Vibración del suelo.
                 li 
-                  i.lista-ul__vineta Amplificación espectral.
+                  span.lista-ul__vineta Amplificación espectral.
                 li 
-                  i.lista-ul__vineta Aceleración.
+                  span.lista-ul__vineta Aceleración.
                 li 
-                  i.lista-ul__vineta Intensidad.
+                  span.lista-ul__vineta Intensidad.
                 li 
-                  i.lista-ul__vineta Ruptura del suelo.
+                  span.lista-ul__vineta Ruptura del suelo.
                 li 
-                  i.lista-ul__vineta Licuefacción.
+                  span.lista-ul__vineta Licuefacción.
                 li 
-                  i.lista-ul__vineta Tsunami.
+                  span.lista-ul__vineta Tsunami.
                 li 
-                  i.lista-ul__vineta Deslizamiento.
+                  span.lista-ul__vineta Deslizamiento.
                 li 
-                  i.lista-ul__vineta Levantamiento.
+                  span.lista-ul__vineta Levantamiento.
  
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_14.png')})`}")
 
@@ -132,21 +132,21 @@
               h4 Volcanismo
               ul
                 li 
-                  i.lista-ul__vineta Erupciones.
+                  span.lista-ul__vineta Erupciones.
                 li 
-                  i.lista-ul__vineta Flujos de piroclastos.
+                  span.lista-ul__vineta Flujos de piroclastos.
                 li 
-                  i.lista-ul__vineta Tsunami.
+                  span.lista-ul__vineta Tsunami.
                 li 
-                  i.lista-ul__vineta Coladas de lava.
+                  span.lista-ul__vineta Coladas de lava.
                 li 
-                  i.lista-ul__vineta Emisión de gases.
+                  span.lista-ul__vineta Emisión de gases.
                 li 
-                  i.lista-ul__vineta Vapores.
+                  span.lista-ul__vineta Vapores.
                 li 
-                  i.lista-ul__vineta Lluvia ácida.
+                  span.lista-ul__vineta Lluvia ácida.
                 li 
-                  i.lista-ul__vineta Lamares.
+                  span.lista-ul__vineta Lamares.
 
 
       .col-sm-6.col-xl-4.mb-4.mb-sm-0
@@ -157,23 +157,23 @@
               h4 Hidrometeorología
               ul
                 li 
-                  i.lista-ul__vineta Ciclones.
+                  span.lista-ul__vineta Ciclones.
                 li 
-                  i.lista-ul__vineta Frentes polares.
+                  span.lista-ul__vineta Frentes polares.
                 li 
-                  i.lista-ul__vineta El Niño.
+                  span.lista-ul__vineta El Niño.
                 li 
-                  i.lista-ul__vineta Tornados.
+                  span.lista-ul__vineta Tornados.
                 li 
-                  i.lista-ul__vineta Convergencia intertropical.
+                  span.lista-ul__vineta Convergencia intertropical.
                 li 
-                  i.lista-ul__vineta Vaguadas.
+                  span.lista-ul__vineta Vaguadas.
                 li 
-                  i.lista-ul__vineta Lluvias intensas (Avenidas, inundaciones, deslizamientos, torrentes, erosión).
+                  span.lista-ul__vineta Lluvias intensas (Avenidas, inundaciones, deslizamientos, torrentes, erosión).
                 li 
-                  i.lista-ul__vineta Sequías (déficit hídrico, descenso de caudales, incremento del albedo, degradación de tierras).
+                  span.lista-ul__vineta Sequías (déficit hídrico, descenso de caudales, incremento del albedo, degradación de tierras).
                 li 
-                  i.lista-ul__vineta Vientos (erosión eólica, variaciones súbitas, influencia sobre navegación, obras civiles). 
+                  span.lista-ul__vineta Vientos (erosión eólica, variaciones súbitas, influencia sobre navegación, obras civiles). 
 
     .row.mb-5
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
@@ -184,13 +184,13 @@
               h4.text-center Deslizamientos
               ul
                 li 
-                  i.lista-ul__vineta Destrucción de laderas.
+                  span.lista-ul__vineta Destrucción de laderas.
                 li 
-                  i.lista-ul__vineta Aludes.
+                  span.lista-ul__vineta Aludes.
                 li 
-                  i.lista-ul__vineta Avalanchas.
+                  span.lista-ul__vineta Avalanchas.
                 li 
-                  i.lista-ul__vineta Represamiento de cauces fluviales
+                  span.lista-ul__vineta Represamiento de cauces fluviales
 
  
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_17.png')})`}")
@@ -203,19 +203,19 @@
               h4 Erosión
               ul
                 li 
-                  i.lista-ul__vineta Remoción de suelos y nutrientes.
+                  span.lista-ul__vineta Remoción de suelos y nutrientes.
                 li 
-                  i.lista-ul__vineta Destrucción de laderas.
+                  span.lista-ul__vineta Destrucción de laderas.
                 li 
-                  i.lista-ul__vineta Socavación.
+                  span.lista-ul__vineta Socavación.
                 li 
-                  i.lista-ul__vineta Agradación de cauces.
+                  span.lista-ul__vineta Agradación de cauces.
                 li 
-                  i.lista-ul__vineta Sedimentación de riberas.
+                  span.lista-ul__vineta Sedimentación de riberas.
                 li 
-                  i.lista-ul__vineta Embalses.
+                  span.lista-ul__vineta Embalses.
                 li 
-                  i.lista-ul__vineta Costas.
+                  span.lista-ul__vineta Costas.
 
 
 
@@ -227,13 +227,13 @@
               h4 Avalanchas
               ul
                 li 
-                  i.lista-ul__vineta Escorrentía torrencial.
+                  span.lista-ul__vineta Escorrentía torrencial.
                 li 
-                  i.lista-ul__vineta Destrucción de laderas y lechos fluviales.
+                  span.lista-ul__vineta Destrucción de laderas y lechos fluviales.
                 li 
-                  i.lista-ul__vineta Agradación de cauces.
+                  span.lista-ul__vineta Agradación de cauces.
                 li 
-                  i.lista-ul__vineta Conoides de deyección.
+                  span.lista-ul__vineta Conoides de deyección.
 
     p.mb-5 Una vez reconocidos los escenarios de riesgo, se determina que la vulnerabilidad es un factor primordial a tener en cuenta dentro de un plan de gestión de riesgo, para tomar medidas acertadas frente a los mecanismos de prevención y acción que se deben tener en cuenta para disminuir los riesgos. A continuación, se presenta el ciclo de factores de vulnerabilidad para la planificación del desarrollo social (Protección de infraestructura (s. f))
 
@@ -278,7 +278,6 @@
       .py-3.py-md-4(titulo="Existencia de una amenaza")
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4.mb-5 Pre-Desastre
             p Para que suceda un evento que sea capaz de producir un desastre, primero debe existir una amenaza, la cual puede ser de origen natural, socio natural, antrópico no intencional y tecnológico, que pueda generar daños en un lugar y momento determinado, así mismo, como las condiciones desfavorables que se presenten al interior de la población. 
         
           .col-md-6
@@ -287,7 +286,6 @@
       .py-3.py-md-4(titulo="Relación de conceptos")
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4.mb-5 Relación de conceptos 
             p En este sentido, es importante reconocer los tres conceptos fundamentales dentro de la gestión del riesgo se relacionan como se muestra en la imagen. La relación de estos conceptos permitirá realizar un acertado diagnóstico para la gestión del riesgo de desastres. 
         
           .col-md-6
@@ -297,7 +295,6 @@
       .py-3.py-md-4(titulo="Definición de amenaza")
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4.mb-5 Definición de amenaza 
             p Para iniciar, se puede entender como amenaza el peligro latente de ocurrencia de un evento, que sea causado por orígenes naturales o inducido por acciones humanas de manera involuntaria, el cual se presente con un alto nivel de accidentabilidad generando pérdida de vidas, lesiones o impactos a la salud, así como también, se puedan producir daños y pérdidas en la infraestructura de la comunidad, junto con las afectaciones hacia los recursos naturales, así como se describe a continuación. 
         
           .col-md-6
@@ -328,37 +325,37 @@
                   h6 Hidrometeorológicas
                   ul
                     li 
-                      i.lista-ul__vineta Huracanes.
+                      span.lista-ul__vineta Huracanes.
                     li 
-                      i.lista-ul__vineta Vendavales.
+                      span.lista-ul__vineta Vendavales.
                     li 
-                      i.lista-ul__vineta Amenaza ceráunico.
+                      span.lista-ul__vineta Amenaza ceráunico.
                     li 
-                      i.lista-ul__vineta Heladas.
+                      span.lista-ul__vineta Heladas.
                     li 
-                      i.lista-ul__vineta Sequías y desertificación.
+                      span.lista-ul__vineta Sequías y desertificación.
                     li 
-                      i.lista-ul__vineta Inundaciones.
+                      span.lista-ul__vineta Inundaciones.
                     li 
-                      i.lista-ul__vineta Avenidas torrenciales.
+                      span.lista-ul__vineta Avenidas torrenciales.
                     li 
-                      i.lista-ul__vineta Granizadas.
+                      span.lista-ul__vineta Granizadas.
                     li 
-                      i.lista-ul__vineta Erosión litoral.
+                      span.lista-ul__vineta Erosión litoral.
 
                 .col-lg-6
                   h6 Geológicas
                   ul
                     li 
-                      i.lista-ul__vineta Sismos.
+                      span.lista-ul__vineta Sismos.
                     li 
-                      i.lista-ul__vineta Actividad volcánica.
+                      span.lista-ul__vineta Actividad volcánica.
                     li 
-                      i.lista-ul__vineta Remoción en masa.
+                      span.lista-ul__vineta Remoción en masa.
                     li 
-                      i.lista-ul__vineta Tsunamis o maremotos.
+                      span.lista-ul__vineta Tsunamis o maremotos.
                     li 
-                      i.lista-ul__vineta Diapirismo de lodos.
+                      span.lista-ul__vineta Diapirismo de lodos.
 
 
         .tarjeta-avatar
@@ -372,13 +369,13 @@
 
               ul
                 li 
-                  i.lista-ul__vineta Inundaciones.
+                  span.lista-ul__vineta Inundaciones.
                 li 
-                  i.lista-ul__vineta Remoción en masa.
+                  span.lista-ul__vineta Remoción en masa.
                 li 
-                  i.lista-ul__vineta Incendios forestales.
+                  span.lista-ul__vineta Incendios forestales.
                 li 
-                  i.lista-ul__vineta Degradación de recursos naturales.
+                  span.lista-ul__vineta Degradación de recursos naturales.
 
 
         .tarjeta-avatar
@@ -392,9 +389,9 @@
 
               ul
                 li 
-                  i.lista-ul__vineta Aglomeración de personas.
+                  span.lista-ul__vineta Aglomeración de personas.
                 li 
-                  i.lista-ul__vineta Contaminación.
+                  span.lista-ul__vineta Contaminación.
 
 
         .tarjeta-avatar
@@ -408,13 +405,13 @@
 
               ul
                 li 
-                  i.lista-ul__vineta Derrames.
+                  span.lista-ul__vineta Derrames.
                 li 
-                  i.lista-ul__vineta Fugas.
+                  span.lista-ul__vineta Fugas.
                 li 
-                  i.lista-ul__vineta Explosiones.
+                  span.lista-ul__vineta Explosiones.
                 li 
-                  i.lista-ul__vineta Incendios (estructurales y forestales).
+                  span.lista-ul__vineta Incendios (estructurales y forestales).
 
     .fondo-3.mb-5.p-5
       .row.justify-content-center.mb-5.align-items-center
@@ -431,7 +428,6 @@
       .py-4.py-md-5(titulo="Factores físicos" :icono="require('@/assets/curso/temas/tema_1/img_32.svg')")
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            h4 Factores físicos
             p Hacen referencia a la ubicación material de los bienes con relación al evento que presenta amenaza como por ejemplo:
             ul
               li 
@@ -444,7 +440,6 @@
       .py-4.py-md-5(titulo="Factores ambientales" :icono="require('@/assets/curso/temas/tema_1/img_33.svg')")
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            h4 Factores ambientales
             p Hacen referencia a la forma en que la comunidad explota los diferentes recursos naturales de sus alrededores, lo cual hace que se debiliten los ecosistemas y la capacidad de resiliencia que presentan, como por ejemplo.
             ul 
               li 
@@ -464,7 +459,6 @@
       .py-4.py-md-5(titulo="Factores económicos" :icono="require('@/assets/curso/temas/tema_1/img_34.svg')")
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            h4 Factores económicos
             p Se refieren a la disponibilidad de recursos económicos presentes dentro de la población de riesgo, así como la distribución y uso de los mismos, como por ejemplo.
             ul
               li 
@@ -487,7 +481,6 @@
       .py-4.py-md-5(titulo="Factores sociales" :icono="require('@/assets/curso/temas/tema_1/img_35.svg')")
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            h4 Factores sociales
             p Corresponden a todos aquellos aspectos políticos, institucionales, educativos, organizacionales y culturales presentes en la comunidad, como por ejemplo.
             ul
               li 

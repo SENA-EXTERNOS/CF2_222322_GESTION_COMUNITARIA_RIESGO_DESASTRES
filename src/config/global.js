@@ -239,7 +239,7 @@ export default {
       referencia:
         'Protección de infraestructura (s.f). Gestión del riesgo [Artículo]. www.eird.ong. Recuperado de',
       link:
-        'https://www.eird.org/cd/toolkit08/material/proteccion-infraestructura/gestion_de_riesgo_de_amenaza/8_gestion_de_riesgo.pdf. Consultado: septiembre 9 de 2022.',
+        'https://www.eird.org/cd/toolkit08/material/proteccion-infraestructura/gestion_de_riesgo_de_amenaza/8_gestion_de_riesgo.pdf',
     },
     {
       referencia:

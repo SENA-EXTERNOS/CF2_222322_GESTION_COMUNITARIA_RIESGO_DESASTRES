@@ -120,7 +120,7 @@
             figure
               img(src='@/assets/curso/temas/tema_2/img_17.png', alt='Texto que describa la imagen')
 
-    p Además de la recolección de la información se hace necesario realizar análisis y evaluación de datos como se describe en este apartado.
+    p Además de la socialización con diversos actores se describe a continuación otros elementos a considerar dentro del análisis y evaluación para la gestión del riesgo.
 
     p.mb-5 De acuerdo con lo expresado en el documento Gestión de la información y comunicación en emergencias y desastres (s.f.), algunos de los aspectos que se deben entender dentro del análisis y evaluación de datos para la gestión del riesgo se describen a continuación:
 
@@ -201,7 +201,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_29.png')})`}"
           )
           .bloque-texto-g__texto.p-4.txt-g.bloque-g-txt
-            p.mb-0 En la gestión del riesgo de desastres es de vital importancia realizar un monitoreo y seguimiento riguroso frente a las decisiones y acciones que fueron tomadas con respecto a una emergencia o escenario de amenaza. Esto permitirá corroborar la efectividad de las medidas establecidas, midiendo de manera cualitativa y cuantitativa los resultados del plan de gestión de riesgo. 
+            p.mb-0 El diagnóstico realizado deberá ser comunicado a las entidades que harán parte del plan de gestión del riesgo, ya que, mediante este plan se podrá identificar, priorizar, formular, programar y hacer seguimiento a las acciones necesarias para el conocimiento y reducción de las condiciones de riesgo actuales y futuras, que sean derivadas de fenómenos ambientales o por acciones antrópicas que sean capaces de generar daños y pérdidas al entorno social. 
 
     p.mb-5 Los informes que se deben presentar se clasifican de la siguiente manera.
 
