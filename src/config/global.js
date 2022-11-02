@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Diagnóstico para la gestión del riesgo de desastres.',
+    componenteFormativo: 'Diagnóstico para la gestión del riesgo de desastres',
     descripcionCurso:
-      'En este componente formativo podrá reconocer las bases para realizar un diagnóstico acertado frente a la gestión del riesgo de desastres, identificando los escenarios de riesgo por medio de sistemas de información geográfica, así mismo, podrá identificar las fuentes de información que se requieren y la manera de comunicar el diagnóstico a las personas involucradas en el proceso.',
+      'En este componente formativo podrá reconocer las bases para realizar un diagnóstico acertado frente a la gestión del riesgo de desastres, identificando los escenarios de riesgo por medio de sistemas de información geográfica, así mismo, podrá identificar las fuentes de información que se requieren y la manera de comunicar el diagnóstico a las personas involucradas en el proceso',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
