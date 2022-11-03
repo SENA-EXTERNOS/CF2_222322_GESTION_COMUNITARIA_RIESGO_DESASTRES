@@ -166,7 +166,7 @@ export default {
       referencia:
         'Banco Interamericano de Desarrollo. (2010). Indicadores de Riesgo de Desastre y de Gestión de Riesgos Programa para América Latina y el Caribe República Dominicana. Recuperado de ',
       tipo: 'Documento',
-      descarga: '/downloads/EZSHARE-662423685-8847.pdf',
+      descarga: '/downloads/Indicadores_de_Riesgo.pdf',
     },
   ],
   glosario: [
