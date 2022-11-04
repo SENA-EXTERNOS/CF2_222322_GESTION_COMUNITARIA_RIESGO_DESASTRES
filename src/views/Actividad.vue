@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-primario
           h2 Arrastrar y soltar
-        p.mb-4 Relacione el tipo o color de la biotecnología con su respectivo ejemplo de aplicación.
+        p.mb-4 La actividad planteada consiste en relacionar las columnas, en una se deben poner los términos y en la otra las definiciones, el objetivo es que el aprendiz haga la unión entre término y definición y de esta manera haga un repaso de lo estudiado en este componente.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
