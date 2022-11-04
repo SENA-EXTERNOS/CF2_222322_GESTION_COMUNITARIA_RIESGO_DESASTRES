@@ -78,7 +78,7 @@ export default {
           },
           {
             icono: 'far fa-file-alt',
-            numero: '2.1',
+            numero: '2.2',
             titulo:
               'Análisis y evaluación de datos para la gestión del riesgo de desastres',
             hash: 't_2_2',
