@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="141" height="141" viewBox="0 0 141 141">
+  <g id="Grupo_880459" data-name="Grupo 880459" transform="translate(-309 -3294)">
+    <g id="Grupo_880444" data-name="Grupo 880444" transform="translate(-179 691)">
+      <ellipse id="Elipse_5195" data-name="Elipse 5195" cx="70.5" cy="70.5" rx="70.5" ry="70.5" transform="translate(488 2603)" fill="#179587"/>
+    </g>
+    <g id="grafico-de-perdidas" transform="translate(335 3317)">
+      <g id="Grupo_880448" data-name="Grupo 880448">
+        <path id="Trazado_622628" data-name="Trazado 622628" d="M10.514,81.486V0H0V92H92V81.486Z" fill="#222b5a"/>
+        <path id="Trazado_622629" data-name="Trazado 622629" d="M103.62,92.892,117.5,112.758l-4.8,3.356,18.234,8.524L129.2,104.584l-4.8,3.356L106.084,81.732,86.478,93.124l-14.57-18.9-6.661,5.137L84.323,104.1Z" transform="translate(-48.096 -54.717)" fill="#f1b62b"/>
+      </g>
+    </g>
+  </g>
+</svg>
