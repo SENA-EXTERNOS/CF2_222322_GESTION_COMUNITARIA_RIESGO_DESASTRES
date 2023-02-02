@@ -77,7 +77,7 @@
             figure
               img(src='@/assets/curso/temas/tema_2/img_13.png', alt='Texto que describa la imagen')
 
-    p.mb-5 A continuación se presenta un video relacionado con las técnicas que existen para realizar la recolección de la información. 
+    p.mb-5 A continuación, se presenta un video relacionado con las técnicas que existen para realizar la recolección de la información: 
 
     figure.mb-5(data-aos="zoom-in-down")
       .video
@@ -127,7 +127,7 @@
     SlyderC.mb-5(:datos="datosSlyder1")
 
     .tarjeta.bg_9.p-4.mb-5
-      p.bg_9_txt A continuación, se presentan algunas pautas claves para la gestión de información.
+      p.bg_9_txt A continuación, se presentan algunas pautas claves para la gestión de información:
       .row.align-items-center
         .col-lg-4
           img.img-a(src='@/assets/curso/temas/tema_2/img_22.png', alt='Texto que describa la imagen')
@@ -160,9 +160,9 @@
     #t_2_3.titulo-segundo.color-acento-contenido.mt-5
       h2 2.3 Monitoreo y seguimiento de la gestión del riesgo de desastres     
 
-    p En la gestión del riesgo de desastres es de vital importancia realizar un monitoreo y seguimiento riguroso frente a las decisiones y acciones que fueron tomadas con respecto a una emergencia o escenario de amenaza. Esto permitirá corroborar la efectividad de las medidas establecidas, midiendo de manera cualitativa y cuantitativa los resultados del plan de gestión de riesgo. 
+    p En la gestión del riesgo de desastres es de vital importancia realizar un monitoreo y seguimiento riguroso frente a las decisiones y acciones que fueron tomadas con respecto a una emergencia o escenario de amenaza. Esto permitirá corroborar la efectividad de las medidas establecidas, midiendo de manera cualitativa y cuantitativa los resultados del plan de gestión de riesgo.  
 
-    p.mb-5 Para realizar un plan de gestión de riesgo es necesario aplicar las siguientes incógnitas.
+    p.mb-5 Para realizar un plan de gestión de riesgos, es necesario aplicar las siguientes incógnitas:
 
     ImagenInfografica.color-acento-botones.mb-5
       template(v-slot:imagen)
@@ -203,7 +203,7 @@
           .bloque-texto-g__texto.p-4.txt-g.bloque-g-txt
             p.mb-0 El diagnóstico realizado deberá ser comunicado a las entidades que harán parte del plan de gestión del riesgo, ya que, mediante este plan se podrá identificar, priorizar, formular, programar y hacer seguimiento a las acciones necesarias para el conocimiento y reducción de las condiciones de riesgo actuales y futuras, que sean derivadas de fenómenos ambientales o por acciones antrópicas que sean capaces de generar daños y pérdidas al entorno social. 
 
-    p.mb-5 Los informes que se deben presentar se clasifican de la siguiente manera.
+    p.mb-5 Los informes que se deben presentar, se clasifican de la siguiente manera:
 
     .tarjeta--container.row.mb-5(data-aos="slide-right")
       .col-md.tarjeta.color-secundario.p-5(data-aos="slide-right")
@@ -225,7 +225,7 @@
 
     p En sintonía con la información a comunicar se hace necesario destacar la interacción entre el conocimiento, reducción y manejo de riesgo de desastres.
 
-    p.mb-5 A continuación, se presentan las interacciones entre el conocimiento, reducción y manejo de riesgo de desastres.
+    p.mb-5 A continuación, se presentan las interacciones entre el conocimiento, reducción, y manejo de riesgos de desastres:
 
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-down-right")
@@ -276,7 +276,7 @@
     .row.justify-content-center
       .col-lg-10
         .cajon.color-primario.p-4.mb-4
-          p Aquí finaliza el desarrollo temático de este componente formativo.  Recuerde explorar los demás recursos que se encuentran disponibles en este, para ello diríjase al menú principal en donde encontrará la síntesis, una actividad didáctica, material complementario, entre otros. 
+          p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 </template>
 

@@ -14,7 +14,7 @@
         .fondo-1
           .row.justify-content-center
             .col-lg-9
-              p.text-small Para dar inicio al componente formativo se presenta una descripción inicial de los elementos a considerar para la realización del diagnóstico de la gestión del riesgo de desastres.
+              p.text-small Para dar inicio con el estudio de esta temática, se presenta una descripción inicial de los elementos que se deben considerar para la realización del diagnóstico de la gestión del riesgo de desastres:
 
         p Como primera parte en todo plan de riesgo, es necesario realizar un diagnóstico de la zona de estudio, el cual debe tener en cuenta las fuentes de información gubernamentales, las fuentes cartográficas y demográficas, así como los diversos actores sociales que están involucrados en el proceso. Esto con el propósito de facilitar el desarrollo de más medidas de mitigación y prevención que se apropien para que el programa sea implementado de forma sostenible y segura. 
 
@@ -59,7 +59,7 @@
       SlyderA(tipo="b")
         .row.justify-content-evenly
           .col-md-4.mb-4.mb-md-0
-            p Para dar respuesta a los interrogantes planteados previamente, se reconoce que todos los riesgos surgen a partir de una combinación entre los peligros, la exposición de personas, la vulnerabilidad que presentan y la capacidad de afrontarlo en un lugar determinado
+            p Para dar respuesta a los interrogantes planteados previamente, se reconoce que todos los riesgos surgen a partir de una combinación entre los peligros, la exposición de personas, la vulnerabilidad que presentan y la capacidad para afrontarlos en un lugar determinado.
         
           .col-md-7
             figure
@@ -90,8 +90,8 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.mb-5.mb-md-0(data-aos="fade-up-right")
-        p En relación con la preparación y revisión de información del territorio se hace necesario considerar la identificación de los escenarios de riesgo de desastres, los cuales se describen a continuación.
-        p Los escenarios de riesgo son todos aquellos que tengan la capacidad de generar susceptibilidades hacia la salud humana, la infraestructura social y la economía de las comunidades. Dentro de los principales escenarios de riesgo, están las amenazas naturales, dado que en la mayoría de los casos no se puede saber con certeza el tiempo en que se van a presentar ni la magnitud de las mismas, a continuación, se describen las principales amenazas naturales (Protección de infraestructura, s. f).        
+        p En relación con la preparación y revisión de información del territorio, se hace necesario considerar la identificación de los escenarios de riesgo de desastres, los cuales se describen a continuación:
+        p Los escenarios de riesgo, son todos aquellos que tienen la capacidad de generar susceptibilidades hacia la salud humana, la infraestructura social y la economía de las comunidades. Dentro de los principales escenarios de riesgo, se encuentran las amenazas naturales, porque, en la mayoría de los casos, no se puede saber con certeza el momento en que se van a presentar, ni la magnitud de las mismas; a continuación, se describen las principales amenazas naturales. (Protección de infraestructura, s.f.)        
       .col-lg-3(data-aos="fade-up-left")
         img.img-a(src='@/assets/curso/temas/tema_1/img_13.png', alt='Texto que describa la imagen')
 
@@ -235,7 +235,7 @@
                 li 
                   span.lista-ul__vineta Conoides de deyección.
 
-    p.mb-5 Una vez reconocidos los escenarios de riesgo, se determina que la vulnerabilidad es un factor primordial a tener en cuenta dentro de un plan de gestión de riesgo, para tomar medidas acertadas frente a los mecanismos de prevención y acción que se deben tener en cuenta para disminuir los riesgos. A continuación, se presenta el ciclo de factores de vulnerabilidad para la planificación del desarrollo social (Protección de infraestructura (s. f))
+    p.mb-5 Una vez reconocidos los escenarios de riesgo, se determina la vulnerabilidad, que es un factor primordial a tener en cuenta dentro de un plan de gestión de riesgo, para tomar las medidas acertadas frente a los mecanismos de prevención y acción, que se necesitan tener en cuenta para disminuir los riesgos. A continuación, se presenta el ciclo de factores de vulnerabilidad para la planificación del desarrollo social. (Protección de infraestructura, s.f.)
 
     ImagenInfografica.color-secundario.mb-5
       template(v-slot:imagen)
@@ -270,7 +270,7 @@
           li.mb-3 
             span.lista-ul__vineta Actualizar permanentemente los instrumentos de planificación incorporando el enfoque de gestión del riesgo: planes estratégicos de desarrollo, ordenamiento territorial y de contingencias. 
           li 
-            span.lista-ul__vineta Dar seguimiento a los avances de inversiones en prevención, mitigación, preparación, respuesta y rehabilitación
+            span.lista-ul__vineta Dar seguimiento a los avances de inversiones en prevención, mitigación, preparación, respuesta y rehabilitación.
 
     p.mb-5 Como puede verse, mediante la identificación de los escenarios de riesgo se determina la amenaza y vulnerabilidad de las comunidades. 
 
@@ -306,7 +306,7 @@
         .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
           p Reconociendo el concepto de amenaza, a continuación se presentan la clasificación de las amenazas según su origen.
           .bg_1.p-4
-            p.mb-0 Según la Guía metodológica para la elaboración de planes departamentales para la gestión del riesgo, las amenazas se pueden clasificar de la siguiente manera.
+            p.mb-0 Según la guía metodológica para la elaboración de planes departamentales para la gestión del riesgo, las amenazas se pueden clasificar de la siguiente manera:
         .col-lg-3(data-aos="fade-left")
           img.img-a(src='@/assets/curso/temas/tema_1/img_24.png', alt='Texto que describa la imagen')
 
@@ -419,7 +419,7 @@
           .px-3
             p Reconocidas las amenazas, se presenta otro concepto fundamental de la gestión del riesgo, la vulnerabilidad. Esta es una variable de vital importancia para realizar la gestión del riesgo, ya que este requiere el estudio de los efectos de un fenómeno, sobre aquellos elementos que son necesarios para el correcto funcionamiento de la sociedad, abarcando los aspectos económicos, sociales, ambientales, físicos, políticos e institucionales. 
           .bg_5.p-4
-            p.mb-0 En este sentido la Guía metodológica plantea que para la elaboración de planes departamentales para la gestión del riesgo, se identifican algunos de los factores de vulnerabilidad que deben ser tomados en cuenta al momento de hacer un plan de gestión de riesgos: 
+            p.mb-0 En este sentido, la guía metodológica plantea que, para la elaboración de planes departamentales para la gestión del riesgo, se identifican algunos de los factores de vulnerabilidad los cuales deben ser tomados en cuenta, al momento de realizar un plan de gestión de riesgos:
         .col-lg-3(data-aos="fade-left")
           img.img-a(src='@/assets/curso/temas/tema_1/img_31.png', alt='Texto que describa la imagen')
 
@@ -428,7 +428,7 @@
       .py-4.py-md-5(titulo="Factores físicos" :icono="require('@/assets/curso/temas/tema_1/img_32.svg')")
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            p Hacen referencia a la ubicación material de los bienes con relación al evento que presenta amenaza como por ejemplo:
+            p Hacen referencia a la ubicación material de los bienes, con relación al evento que presenta amenaza, como, por ejemplo:
             ul
               li 
                 span.lista-ul__vineta Antigüedad y calidad de los materiales de construcción y cumplimiento de la NSR-10 de la infraestructura (vías, puentes, túneles, acueductos, hospitales, estaciones de bomberos, instituciones educativas, estaciones de policía, alcaldías, gobernación, canales de riesgo, presas, entre otros).
@@ -440,7 +440,8 @@
       .py-4.py-md-5(titulo="Factores ambientales" :icono="require('@/assets/curso/temas/tema_1/img_33.svg')")
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            p Hacen referencia a la forma en que la comunidad explota los diferentes recursos naturales de sus alrededores, lo cual hace que se debiliten los ecosistemas y la capacidad de resiliencia que presentan, como por ejemplo.
+            p Hacen referencia a la forma en que la comunidad explota los diferentes recursos naturales de sus alrededores, lo cual hace que se debiliten los ecosistemas y la capacidad de resiliencia que presentan, como, por ejemplo:
+
             ul 
               li 
                 span.lista-ul__vineta Fuentes de agua.
@@ -459,7 +460,7 @@
       .py-4.py-md-5(titulo="Factores económicos" :icono="require('@/assets/curso/temas/tema_1/img_34.svg')")
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            p Se refieren a la disponibilidad de recursos económicos presentes dentro de la población de riesgo, así como la distribución y uso de los mismos, como por ejemplo.
+            p Se refieren a la disponibilidad de recursos económicos presentes dentro de la población de riesgo, así como la distribución y uso de los mismos, como, por ejemplo:
             ul
               li 
                 span.lista-ul__vineta Pobreza y seguridad alimentaria.
@@ -481,7 +482,7 @@
       .py-4.py-md-5(titulo="Factores sociales" :icono="require('@/assets/curso/temas/tema_1/img_35.svg')")
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            p Corresponden a todos aquellos aspectos políticos, institucionales, educativos, organizacionales y culturales presentes en la comunidad, como por ejemplo.
+            p Corresponden a todos aquellos aspectos políticos, institucionales, educativos, organizacionales y culturales presentes en la comunidad, como, por ejemplo:
             ul
               li 
                   span.lista-ul__vineta Educación y formación.
@@ -507,7 +508,7 @@
         .bloque-texto-b.color-acento-botones.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.mb-0 Para ampliar la información de este apartado se sugiere consultar la Guía metodológica para la elaboración de planes departamentales para la gestión del riesgo. 
+            h4.mb-0 Para ampliar la información de esta temática, se sugiere consultar la guía metodológica para la elaboración de planes departamentales para la gestión del riesgo. 
             i.fas.fa-quote-right
             br
             p.text-center (Unidad nacional de gestión de riesgo de desastres. (s.f)). 
@@ -518,7 +519,7 @@
 
     p Una vez identificados los escenarios de riesgo de desastres, se describe a continuación la interpretación cartográfica de los mismos.
 
-    p.mb-5 Los sistemas de información geográfica son una herramienta esencial para la gestión de riesgos, ya que se utilizan para identificar las actividades o procesos que están sujetos a riesgo, cuantificando las probabilidades de estos eventos y poder medir de manera acertada el daño potencial que esté asociado a la ocurrencia de desastres.
+    p.mb-5 Los sistemas de información geográfica, son herramientas esenciales para la gestión de riesgos, debido a que se utilizan para identificar las actividades o procesos que se encuentran sujetos a riesgo, y cuantifican las probabilidades de estos eventos para poder medir, de manera acertada, el daño potencial que se asocie con la ocurrencia de desastres:
 
     .tarjeta.color-secundario.p-4.mb-5(data-aos="flip-right")
       SlyderA(tipo="b")

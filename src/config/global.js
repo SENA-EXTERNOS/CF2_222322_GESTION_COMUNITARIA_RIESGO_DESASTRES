@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Diagnóstico para la gestión del riesgo de desastres',
     descripcionCurso:
-      'En este componente formativo podrá reconocer las bases para realizar un diagnóstico acertado frente a la gestión del riesgo de desastres, identificando los escenarios de riesgo por medio de sistemas de información geográfica, así mismo, podrá identificar las fuentes de información que se requieren y la manera de comunicar el diagnóstico a las personas involucradas en el proceso',
+      'En este componente formativo, podrá reconocer las bases para realizar un diagnóstico acertado frente a la gestión del riesgo de desastres, identificando los escenarios expuestos, por medio de sistemas de información geográfica; así mismo, también podrá identificar las fuentes de información que se requieren y la manera de comunicar el diagnóstico a las personas involucradas en el proceso. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -142,31 +142,31 @@ export default {
   },
   complementario: [
     {
-      tema: 'Riesgo de desastres.',
+      tema: 'Diagnóstico de la gestión del riesgo de desastres.',
       referencia:
-        'Universidad de la Laguna. (2014). La evaluación de riesgos en desastres: el riesgo de desastres. Recuperado de',
+        'Universidad de la Laguna. (2014). <em>La evaluación de riesgos en desastres: el riesgo de desastres</em> (video). YouTube. ',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=GGFtgbIdFvg ',
+      link: 'https://www.youtube.com/watch?v=GGFtgbIdFvg',
     },
     {
-      tema: 'Escenarios de riesgo',
-      referencia: 'Núñez, M. (2020). Escenarios del Riesgo. Recuperado de',
+      tema: 'Diagnóstico de la gestión del riesgo de desastres.',
+      referencia: 'Núñez, M. (2020). Escenarios del Riesgo (video). YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=aiA-fRnYSqc',
     },
     {
-      tema: 'Amenaza, vulnerabilidad y riesgo de desastres',
+      tema: 'Recolección y análisis de información primaria y secundaria.',
       referencia:
-        'Laffaille, K. (2008). Amenaza, vulnerabilidad y riesgo de desastres. Recuperado de:',
+        'Laffaille, K. (2008). <em>Amenaza, vulnerabilidad y riesgo de desastres</em> (video). YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=OwVTtdr2jmE',
     },
     {
-      tema: 'Indicadores de riesgo de desastres',
+      tema: 'Recolección y análisis de información primaria y secundaria.',
       referencia:
-        'Banco Interamericano de Desarrollo. (2010). Indicadores de Riesgo de Desastre y de Gestión de Riesgos Programa para América Latina y el Caribe República Dominicana. Recuperado de ',
+        'Banco Interamericano de Desarrollo. (2010). <em>Indicadores de Riesgo de Desastre y de Gestión de Riesgos Programa para América Latina y el Caribe República Dominicana.</em> ',
       tipo: 'Documento',
-      descarga: '/downloads/Indicadores_de_Riesgo.PDF',
+      link: 'https://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=35160016',
     },
   ],
   glosario: [
@@ -224,15 +224,16 @@ export default {
   referencias: [
     {
       referencia:
-        'Arroyo, S.; Rodríguez, M.; Pérez, R. (Ed). (2009). Gestión de la información y comunicación en emergencias y desastres. Organización Panamericana de la salud OMS. Consultado de:',
+        'Arroyo, S., Rodríguez, M. & Pérez, R. (Ed). (2009). <em>Gestión de la información y comunicación en emergencias y desastres.</em> Organización Panamericana de la salud OMS. ',
       link:
         'https://www.paho.org/chi/dmdocuments/GestionDeInformComunica_LowRes%20Dic%2009.pdf',
     },
 
     {
       referencia:
-        'IDIGER. (2018). Caracterización general del Escenario de Riesgo Sísmico. Consultado de',
-      link: 'https://www.idiger.gov.co/rsismico  el 7/10/2022',
+        'Protección de infraestructura. (s.f.). <em>Gestión del riesgo.</em> ',
+      link:
+        'https://www.eird.org/cd/toolkit08/material/proteccion-infraestructura/gestion_de_riesgo_de_amenaza/8_gestion_de_riesgo.pdf',
     },
 
     {
@@ -243,16 +244,9 @@ export default {
     },
     {
       referencia:
-        'UNGRD. (2018). Atlas de Riesgo de Colombia: Revelando los desastres latentes. Bogotá D.C.: Unidad Nacional para la Gestión del Riesgo de Desastres. Obtenido de',
+        'Unidad nacional de gestión de riesgo de desastres. (s.f.). <em>Guía metodológica para la elaboración de planes departamentales para la gestión del riesgo.</em> ',
       link:
-        'https://repositorio.gestiondelriesgo.gov.co/handle/20.500.11762/27179  el 7/10/2022',
-    },
-
-    {
-      referencia:
-        'Unidad nacional de gestión de riesgo de desastres. (s.f). Guía metodológica para la elaboración de planes departamentales para la gestión del riesgo. Recuperado de:',
-      link:
-        'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/20871/Guia_elaboracion_plan_departamental_gestion_del_riesgo.pdf?sequence=1&isAllowed=y. Consultado: septiembre 9 de 2022.',
+        'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/20871/Guia_elaboracion_plan_departamental_gestion_del_riesgo.pdf?sequence=1&isAllowed=y',
     },
   ],
   creditos: {

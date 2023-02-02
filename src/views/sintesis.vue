@@ -5,7 +5,7 @@
 
     
 
-    p.mb-5 A continuación, se presenta un mapa mental en donde podrá encontrar los contenidos trabajados en el componente formativo de manera gráfica. 
+    p.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo:
 
     .row.justify-content-center
       .col-lg-10.mb-5
