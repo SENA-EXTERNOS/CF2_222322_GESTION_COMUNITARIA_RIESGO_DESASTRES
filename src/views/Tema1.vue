@@ -11,10 +11,10 @@
       .col-lg-3.mb-5.mb-md-0(data-aos="fade-up-right")
         img.img-a(src='@/assets/curso/temas/tema_1/img_1.png', alt='Texto que describa la imagen')
       .col-lg-9(data-aos="fade-up-left")
-        .fondo-1
+        .tarjeta.fondo-1.p-5.mb-3
           .row.justify-content-center
             .col-lg-9
-              p Para dar inicio con el estudio de esta temática, se presenta una descripción inicial de los elementos que se deben considerar para la realización del diagnóstico de la gestión del riesgo de desastres:
+              p.mb-0 Para dar inicio con el estudio de esta temática, se presenta una descripción inicial de los elementos que se deben considerar para la realización del diagnóstico de la gestión del riesgo de desastres:
 
         p Como primera parte en todo plan de riesgo, es necesario realizar un diagnóstico de la zona de estudio, el cual debe tener en cuenta las fuentes de información gubernamentales, las fuentes cartográficas y demográficas, así como los diversos actores sociales que están involucrados en el proceso. Esto con el propósito de facilitar el desarrollo de más medidas de mitigación y prevención que se apropien para que el programa sea implementado de forma sostenible y segura. 
 
