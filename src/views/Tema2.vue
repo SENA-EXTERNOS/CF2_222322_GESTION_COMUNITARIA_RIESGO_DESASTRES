@@ -126,7 +126,7 @@
 
     SlyderC.mb-5(:datos="datosSlyder1")
 
-    .tarjeta.bg_9.p-4.mb-5
+    .tarjeta.bg_9.p-5.mb-5
       p.bg_9_txt A continuación, se presentan algunas pautas claves para la gestión de información:
       .row.align-items-center
         .col-lg-4
@@ -187,7 +187,7 @@
         h4.text-center.mb-0 Seguimiento y evaluación.
 
     .fondo-6.p-5
-      p El seguimiento y la evaluación del plan de gestión del riesgo será lo que determinará la continuidad de los procesos adelantados o nuevas medidas que deberán ser adoptadas dentro del procesos, esto con el fin de dar una respuesta oportuna a las calamidades que puedan presentarse en el transcurso del tiempo. 
+      p El seguimiento y la evaluación del plan de gestión del riesgo será lo que determinará la continuidad de los procesos adelantados o nuevas medidas que deberán ser adoptadas dentro del proceso, esto con el fin de dar una respuesta oportuna a las calamidades que puedan presentarse en el transcurso del tiempo.
       
 
       separador
@@ -231,7 +231,7 @@
       .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-down-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema_2/img_32.svg' alt='AvatarTop')
-          .tarjeta.mog
+          .tarjeta.mog.w-100
             .p-4
               h4.text-center Proceso 1. Conocimiento del riesgo
               ul
@@ -247,7 +247,7 @@
       .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-down")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema_2/img_33.svg' alt='AvatarTop')
-          .tarjeta.mog
+          .tarjeta.mog.w-100
             .p-4
               h4.text-center Proceso 2. Reducción del riesgo
               ul
@@ -260,7 +260,7 @@
       .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-down-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema_2/img_34.svg' alt='AvatarTop')
-          .tarjeta.mog
+          .tarjeta.mog.w-100
             .p-4
               h4.text-center Proceso 3. Manejo de desastres
               ul

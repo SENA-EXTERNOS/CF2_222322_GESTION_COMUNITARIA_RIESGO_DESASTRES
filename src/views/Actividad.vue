@@ -10,7 +10,7 @@
             img(src="@/assets/template/arrastrar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-primario
-          h2 Manual de Componentes para Diseñadores Instruccionales
+          h2 Diagnóstico para la gestión del riesgo de desastres
         p.mb-4 Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
           br
           br

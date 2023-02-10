@@ -14,7 +14,7 @@
         .fondo-1
           .row.justify-content-center
             .col-lg-9
-              p.text-small Para dar inicio con el estudio de esta temática, se presenta una descripción inicial de los elementos que se deben considerar para la realización del diagnóstico de la gestión del riesgo de desastres:
+              p Para dar inicio con el estudio de esta temática, se presenta una descripción inicial de los elementos que se deben considerar para la realización del diagnóstico de la gestión del riesgo de desastres:
 
         p Como primera parte en todo plan de riesgo, es necesario realizar un diagnóstico de la zona de estudio, el cual debe tener en cuenta las fuentes de información gubernamentales, las fuentes cartográficas y demográficas, así como los diversos actores sociales que están involucrados en el proceso. Esto con el propósito de facilitar el desarrollo de más medidas de mitigación y prevención que se apropien para que el programa sea implementado de forma sostenible y segura. 
 
@@ -95,7 +95,7 @@
       .col-lg-3(data-aos="fade-up-left")
         img.img-a(src='@/assets/curso/temas/tema_1/img_13.png', alt='Texto que describa la imagen')
 
-    .row.mb-5
+    .row.mb-5.justify-content-center
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.izquierda.color-primario(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
@@ -175,11 +175,11 @@
                 li 
                   span.lista-ul__vineta Vientos (erosión eólica, variaciones súbitas, influencia sobre navegación, obras civiles). 
 
-    .row.mb-5
+    .row.mb-5.justify-content-center
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.izquierda.color-primario(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
-          .tarjeta-slide__contenedor
+          .tarjeta-slide__contenedor.h-100(style='min-height: 500px')
             .tarjeta-slide__contenido.p-4.p-xl-5
               h4.text-center Deslizamientos
               ul
@@ -197,7 +197,7 @@
 
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.abajo.color-primario(@mouseover="indicadorTarjetaSlide = false")
-          .tarjeta-slide__contenedor
+          .tarjeta-slide__contenedor.h-100(style='min-height: 460px')
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_18.png')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-5
               h4 Erosión
@@ -221,7 +221,7 @@
 
       .col-sm-6.col-xl-4.mb-4.mb-sm-0
         .tarjeta.tarjeta-slide.derecha.color-primario(@mouseover="indicadorTarjetaSlide = false")
-          .tarjeta-slide__contenedor
+          .tarjeta-slide__contenedor.h-100(style='min-height: 460px')
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_19.png')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-5
               h4 Avalanchas
@@ -511,7 +511,7 @@
             h4.mb-0 Para ampliar la información de esta temática, se sugiere consultar la guía metodológica para la elaboración de planes departamentales para la gestión del riesgo. 
             i.fas.fa-quote-right
             br
-            p.text-center (Unidad nacional de gestión de riesgo de desastres. (s.f)). 
+            p.text-center (Unidad nacional de gestión de riesgo de desastres, s.f.). 
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido.mt-5
