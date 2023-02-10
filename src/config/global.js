@@ -238,12 +238,6 @@ export default {
 
     {
       referencia:
-        'Protección de infraestructura (s.f). Gestión del riesgo [Artículo]. www.eird.ong. Recuperado de',
-      link:
-        'https://www.eird.org/cd/toolkit08/material/proteccion-infraestructura/gestion_de_riesgo_de_amenaza/8_gestion_de_riesgo.pdf',
-    },
-    {
-      referencia:
         'Unidad nacional de gestión de riesgo de desastres. (s.f.). <em>Guía metodológica para la elaboración de planes departamentales para la gestión del riesgo.</em> ',
       link:
         'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/20871/Guia_elaboracion_plan_departamental_gestion_del_riesgo.pdf?sequence=1&isAllowed=y',
