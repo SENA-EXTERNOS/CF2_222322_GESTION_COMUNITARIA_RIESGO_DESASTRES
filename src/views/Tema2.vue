@@ -312,24 +312,28 @@ export default {
     ],
     datosSlyder1: [
       {
+        titulo: 'Circulación de información',
         texto:
           'En una emergencia la producción y circulación oportuna y transparente de información contribuye a generar confianza y credibilidad. Autoridades nacionales, organismos internacionales, organizaciones de acción humanitaria, población afectada y los medios de comunicación, son algunos de los actores que demandarán datos, cifras, informes y análisis de la situación o recomendaciones que orienten su trabajo y les permita transformar su interés y preocupación en acciones concretas.',
         imagen: require('@/assets/curso/temas/tema_2/img_18.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
+        titulo: 'Fuentes de información',
         texto:
           'La información en situaciones de emergencia o desastre surge de múltiples fuentes, representa diversos puntos de vista y atiende a un amplio abanico de intereses y necesidades. Sin duda, esto responde al carácter multidisciplinario de la respuesta a emergencias y desastres y al aumento del número de especialistas y organizaciones de diferentes áreas y disciplinas técnicas que intervienen en el campo humanitario.',
         imagen: require('@/assets/curso/temas/tema_2/img_19.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
+        titulo: 'Participación de actores',
         texto:
           'La participación de actores nacionales e internacionales puede ser más sólida y responder mejor a sus desafíos, en la medida en que sus acciones en apoyo a la población estén sustentadas por información precisa, oportuna y pertinente, así como en una comunicación basada en canales e instrumentos de divulgación que faciliten la construcción de diálogos y alianzas.',
         imagen: require('@/assets/curso/temas/tema_2/img_20.png'),
         //leyendaImagen: 'Leyenda de la imagen',
       },
       {
+        titulo: 'Expertos en comunicación',
         texto:
           'Los expertos en comunicación también tienen el desafío de mostrar cómo la comunicación y la gestión de la información contribuyen a una respuesta más eficiente y oportuna y por tanto, a salvar vidas, a disminuir el impacto de las emergencias y desastres y mejorar la calidad de vida de las personas afectadas. De igual forma, son elementos clave para movilizar recursos, motivar acciones de solidaridad y apoyo, incrementar la visibilidad y consolidar el posicionamiento de los actores humanitarios en general y del sector salud en particular.',
         imagen: require('@/assets/curso/temas/tema_2/img_21.png'),

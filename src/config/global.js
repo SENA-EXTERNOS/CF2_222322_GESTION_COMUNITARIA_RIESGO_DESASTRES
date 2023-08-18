@@ -225,8 +225,6 @@ export default {
     {
       referencia:
         'Arroyo, S., Rodríguez, M. & Pérez, R. (Ed). (2009). <em>Gestión de la información y comunicación en emergencias y desastres.</em> Organización Panamericana de la salud OMS. ',
-      link:
-        'https://www.paho.org/chi/dmdocuments/GestionDeInformComunica_LowRes%20Dic%2009.pdf',
     },
 
     {
@@ -239,8 +237,6 @@ export default {
     {
       referencia:
         'Unidad nacional de gestión de riesgo de desastres. (s.f.). <em>Guía metodológica para la elaboración de planes departamentales para la gestión del riesgo.</em> ',
-      link:
-        'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/20871/Guia_elaboracion_plan_departamental_gestion_del_riesgo.pdf?sequence=1&isAllowed=y',
     },
   ],
   creditos: {
