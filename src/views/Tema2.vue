@@ -95,14 +95,14 @@
       SlyderA(tipo="b")
         .row.justify-content-evenly.align-items-center
           .col-md-4.mb-4.mb-md-0
-            p La socialización se realiza con los diversos funcionarios y representantes de cada administración departamental, del Consejo departamental de gestión del riesgo, de las corporaciones autónomas regionales, de las entidades estudiantiles como universidades y centros de investigación, de las juntas de acción comunal, del consejo territorial de planeación, de la comunidad que hace parte del área de estudio y demás interesados.  
+            p La socialización se realiza con los diversos funcionarios y representantes de cada administración departamental, del Consejo Departamental de Gestión del Riesgo, de las Corporaciones Autónomas Regionales, de las entidades estudiantiles como universidades y centros de investigación, de las juntas de acción comunal, del Consejo Territorial de Planeación, de la comunidad que hace parte del área de estudio y demás interesados.  
         
           .col-md-7
             figure
               img(src='@/assets/curso/temas/tema_2/img_14.png', alt='Texto que describa la imagen')
         .row.justify-content-evenly.align-items-center
           .col-md-4.mb-4.mb-md-0
-            p Para validar la información es necesario establecer un equipo de trabajo y un cronograma específico para el grupo en el cual se pueda discutir y argumentar la calidad y pertinencia de la información, al final de las reuniones se debe obtener como producto un documento final en el cual se represente la información recolectada, con sus fuentes y argumentos científicos.         
+            p Para validar la información es necesario establecer un equipo de trabajo y un cronograma específico para el grupo, en el cual se pueda discutir y argumentar la calidad y pertinencia de la información, al final de las reuniones se debe obtener como producto un documento final en el cual se represente la información recolectada, con sus fuentes y argumentos científicos.         
           .col-md-7
             figure
               img(src='@/assets/curso/temas/tema_2/img_15.png', alt='Texto que describa la imagen')

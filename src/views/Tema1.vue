@@ -146,7 +146,7 @@
                 li 
                   span.lista-ul__vineta Lluvia ácida.
                 li 
-                  span.lista-ul__vineta Lamares.
+                  span.lista-ul__vineta Lahares.
 
 
       .col-sm-6.col-xl-4.mb-4.mb-sm-0
@@ -278,7 +278,7 @@
       .py-3.py-md-4(titulo="Existencia de una amenaza")
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p Para que suceda un evento que sea capaz de producir un desastre, primero debe existir una amenaza, la cual puede ser de origen natural, socio natural, antrópico no intencional y tecnológico, que pueda generar daños en un lugar y momento determinado, así mismo, como las condiciones desfavorables que se presenten al interior de la población. 
+            p Para que suceda un evento que sea capaz de producir un desastre, primero debe existir una amenaza, la cual puede ser de origen natural, socionatural, antrópico no intencional y tecnológico, que pueda generar daños en un lugar y momento determinado, así mismo, como las condiciones desfavorables que se presenten al interior de la población. 
         
           .col-md-6
             figure
@@ -286,7 +286,7 @@
       .py-3.py-md-4(titulo="Relación de conceptos")
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p En este sentido, es importante reconocer los tres conceptos fundamentales dentro de la gestión del riesgo se relacionan como se muestra en la imagen. La relación de estos conceptos permitirá realizar un acertado diagnóstico para la gestión del riesgo de desastres. 
+            p En este sentido, es importante reconocer los tres conceptos fundamentales dentro de la gestión del riesgo, se relacionan como se muestra en la imagen. La relación de estos conceptos permitirá realizar un acertado diagnóstico para la gestión del riesgo de desastres. 
         
           .col-md-6
             figure
@@ -359,10 +359,10 @@
 
 
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema_1/img_27.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema_1/img_27.svg' alt='AvatarTop').m-auto
           .tarjeta.bg_4
             .p-4
-              h4.text-center Socio-naturales
+              h4.text-center Socionaturales
               p Similares a los naturales, pero son inducidos.
 
               p Se encuentran:
@@ -511,7 +511,7 @@
             h4.mb-0 Para ampliar la información de esta temática, se sugiere consultar la guía metodológica para la elaboración de planes departamentales para la gestión del riesgo. 
             i.fas.fa-quote-right
             br
-            p.text-center (Unidad nacional de gestión de riesgo de desastres, s.f.). 
+            p.text-center (Unidad Nacional de Gestión de Riesgo de Desastres, s.f.).
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido.mt-5
@@ -560,7 +560,7 @@
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_45.svg' alt='AvatarTop')
           h4.text-center Causalidad: 
-          p.text-center permiten identificar las cuales que les dieron origen a estos factores. 
+          p.text-center permiten identificar las causas que le dieron origen a estos factores.
 
         .tarjeta.bg_2.p-4.h-100
           .row.justify-content-center.mb-3
@@ -616,7 +616,7 @@ export default {
       },
       {
         texto:
-          'La información necesaria para realizar esta fase de diagnóstico, implica una recopilación ordenada y sistemática de datos que estén relacionados con aspectos primordiales dentro de la gestión de riesgos, por esto, se debe recurrir a fuentes que sean tanto teóricas como prácticas y conceptuales que permitan analizar, comparar evidenciar, verificar y cruzar variables entre ellas.',
+          'La información necesaria para realizar esta fase de diagnóstico, implica una recopilación ordenada y sistemática de datos que estén relacionados con aspectos primordiales dentro de la gestión de riesgos, por esto, se debe recurrir a fuentes que sean tanto teóricas como prácticas y conceptuales que permitan analizar, comparar evidencias, verificar y cruzar variables entre ellas.',
         imagen: require('@/assets/curso/temas/tema_1/img_4.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
