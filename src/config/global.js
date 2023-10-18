@@ -150,7 +150,8 @@ export default {
     },
     {
       tema: 'Diagnóstico de la gestión del riesgo de desastres.',
-      referencia: 'Núñez, M. (2020). Escenarios del Riesgo (video). YouTube. ',
+      referencia:
+        'Núñez, M. (2020). <em>Escenarios del Riesgo</em> (video). YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=aiA-fRnYSqc',
     },
@@ -164,7 +165,7 @@ export default {
     {
       tema: 'Recolección y análisis de información primaria y secundaria.',
       referencia:
-        'Banco Interamericano de Desarrollo. (2010). <em>Indicadores de Riesgo de Desastre y de Gestión de Riesgos Programa para América Latina y el Caribe República Dominicana.</em> ',
+        '-	Banco Interamericano de Desarrollo. (2010). <br>Indicadores de Riesgo de Desastre y de Gestión de Riesgos. Programa para América Latina y el Caribe. República Dominicana</br>. ',
       tipo: 'Documento',
       link: 'https://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=35160016',
     },
@@ -213,7 +214,7 @@ export default {
     {
       termino: 'Manejo de desastres',
       significado:
-        'Es el proceso de la gestión del riesgo compuesto por la preparación para la respuesta a emergencias, la preparación para la recuperación posdesastre, la ejecución de dicha respuesta y la ejecución de la respectiva recuperación, entiéndase: rehabilitación y recuperación.',
+        'Es el proceso de la gestión del riesgo compuesto por la preparación para la respuesta a emergencias, la preparación para la recuperación post-desastre, la ejecución de dicha respuesta y la ejecución de la respectiva recuperación, entiéndase: rehabilitación y recuperación.',
     },
     {
       termino: 'Plan de gestión del riesgo de desastres',
@@ -224,19 +225,15 @@ export default {
   referencias: [
     {
       referencia:
-        'Arroyo, S., Rodríguez, M. & Pérez, R. (Ed). (2009). <em>Gestión de la información y comunicación en emergencias y desastres.</em> Organización Panamericana de la salud OMS. ',
-    },
-
-    {
-      referencia:
         'Protección de infraestructura. (s.f.). <em>Gestión del riesgo.</em> ',
       link:
         'https://www.eird.org/cd/toolkit08/material/proteccion-infraestructura/gestion_de_riesgo_de_amenaza/8_gestion_de_riesgo.pdf',
     },
-
     {
       referencia:
-        'Unidad nacional de gestión de riesgo de desastres. (s.f.). <em>Guía metodológica para la elaboración de planes departamentales para la gestión del riesgo.</em> ',
+        'Unidad nacional de gestión de riesgo de desastres. (s.f.). <em>Guía metodológica para la elaboración de planes departamentales para la gestión del riesgo</em>. ',
+      link:
+        'http://repositorio.gestiondelriesgo.gov.co/handle/20.500.11762/20871',
     },
   ],
   creditos: {
