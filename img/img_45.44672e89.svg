@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="169.912" height="169.912" viewBox="0 0 169.912 169.912">
+  <g id="Grupo_881594" data-name="Grupo 881594" transform="translate(-355 -8849.412)">
+    <ellipse id="Elipse_5191" data-name="Elipse 5191" cx="84.956" cy="84.956" rx="84.956" ry="84.956" transform="translate(355 8849.412)" fill="#f3f9ff"/>
+    <g id="Grupo_879970" data-name="Grupo 879970" transform="translate(-389.871 8214.431)">
+      <rect id="Rectángulo_294770" data-name="Rectángulo 294770" width="8.095" height="44.522" transform="translate(770.892 714.409)" fill="#ee4e5d"/>
+      <g id="Grupo_879963" data-name="Grupo 879963" transform="translate(779.157 713.797)">
+        <rect id="Rectángulo_294771" data-name="Rectángulo 294771" width="8.095" height="44.522" transform="matrix(0.966, -0.259, 0.259, 0.966, 0, 2.095)" fill="#222b5a"/>
+        <rect id="Rectángulo_294772" data-name="Rectángulo 294772" width="8.095" height="44.522" transform="matrix(0.966, -0.259, 0.259, 0.966, 0, 2.095)" fill="#222b5a"/>
+      </g>
+      <g id="Grupo_879964" data-name="Grupo 879964" transform="translate(788.881 716.013)">
+        <rect id="Rectángulo_294773" data-name="Rectángulo 294773" width="8.095" height="44.523" transform="translate(0 3.925) rotate(-29)" fill="#179587"/>
+        <rect id="Rectángulo_294774" data-name="Rectángulo 294774" width="8.095" height="44.523" transform="translate(0 3.925) rotate(-29)" fill="#179587"/>
+      </g>
+      <g id="Grupo_879965" data-name="Grupo 879965" transform="translate(801.046 719.957)">
+        <rect id="Rectángulo_294775" data-name="Rectángulo 294775" width="8.095" height="44.523" transform="matrix(0.755, -0.656, 0.656, 0.755, 0, 5.311)" fill="#ee4e5d"/>
+        <rect id="Rectángulo_294776" data-name="Rectángulo 294776" width="8.095" height="44.523" transform="matrix(0.755, -0.656, 0.656, 0.755, 0, 5.311)" fill="#ee4e5d"/>
+      </g>
+      <g id="Grupo_879966" data-name="Grupo 879966" transform="translate(815.948 724.05)">
+        <rect id="Rectángulo_294777" data-name="Rectángulo 294777" width="8.095" height="44.523" transform="translate(0 6.201) rotate(-50)" fill="#179587"/>
+        <rect id="Rectángulo_294778" data-name="Rectángulo 294778" width="8.095" height="44.523" transform="translate(0 6.201) rotate(-50)" fill="#179587"/>
+      </g>
+      <g id="Grupo_879968" data-name="Grupo 879968" transform="translate(835.681 672.314)">
+        <g id="Grupo_879967" data-name="Grupo 879967" transform="translate(10.853 4.495)">
+          <path id="Trazado_621441" data-name="Trazado 621441" d="M1409.872,708.2,1364,754.322Z" transform="translate(-1363.251 -707.455)" fill="#876412"/>
+          <path id="Trazado_621442" data-name="Trazado 621442" d="M1359.626,750.695a.749.749,0,0,1-.533-1.277l45.872-46.118a.749.749,0,1,1,1.061,1.056l-45.872,46.118A.745.745,0,0,1,1359.626,750.695Z" transform="translate(-1358.875 -703.079)" fill="#876412"/>
+        </g>
+        <circle id="Elipse_5270" data-name="Elipse 5270" cx="9.714" cy="9.714" r="9.714" transform="translate(0 44.006) rotate(-12.625)" fill="#f1b62b"/>
+        <circle id="Elipse_5271" data-name="Elipse 5271" cx="3.914" cy="3.914" r="3.914" transform="matrix(0.444, -0.896, 0.896, 0.444, 51.699, 7.013)" fill="#8b6b1d"/>
+      </g>
+      <g id="Grupo_879969" data-name="Grupo 879969" transform="translate(758.871 757.522)">
+        <path id="Trazado_621443" data-name="Trazado 621443" d="M758.871,1264.736h0Z" transform="translate(-758.871 -1263.388)" fill="#303030"/>
+        <rect id="Rectángulo_294779" data-name="Rectángulo 294779" width="114.14" height="2.696" transform="translate(0 0)" fill="#303030"/>
+      </g>
+    </g>
+  </g>
+</svg>
